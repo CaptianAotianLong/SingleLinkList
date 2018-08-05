@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1533487329 source:g:\dhypractice\c\linklist\singlelinklist\main.c
+	<SingleLinkList.h>
+
+1531662774 g:\dhypractice\c\linklist\singlelinklist\singlelinklist.h
+	<stdlib.h>
+	<stdio.h>
+
+1533487412 source:g:\dhypractice\c\linklist\singlelinklist\singlelinklist.c
+	<SingleLinkList.h>
+
+1533487225 g:\dhypractice\c\linklist\singlelinklist\\singlelinklist.h
+	<stdlib.h>
+	<stdio.h>
+
